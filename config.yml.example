@@ -1,0 +1,11 @@
+telegram:
+  token: ""
+  api_url: "https://api.telegram.org/bot"
+
+mistral:
+  token: ""
+  model: "mistral-small-latest"
+  api_url: "https://api.mistral.ai/v1/chat/completions"
+
+server:
+  port: "9020"
